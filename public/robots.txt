@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /fa/admin/
+Disallow: /upload/company/doc/
+Disallow: /upload/support/
+Disallow: /public/
+Sitemap: https://www.iroilb2b.com/fa/sitemap.xml
+Sitemap: https://www.iroilb2b.com/en/sitemap.xml
